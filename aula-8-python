@@ -1,0 +1,13 @@
+inicial = 8
+final = 23
+if final > inicial:
+
+    duracao = final - inicial
+    
+if  inicial > final:
+    duracao = 24 - inicial + final
+
+print(duracao)
+
+
+        
